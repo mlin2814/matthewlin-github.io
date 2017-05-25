@@ -5,6 +5,27 @@
   transform: translate(-50%, -50%);
 }
 
+.userView {
+background-color: #98878f;
+      
+
+}
+
+.bio {
+  margin: 10px;
+  text-align: center;
+}
+
+.work {
+  margin: 10px;
+  text-align: center;
+}
+
+.contact {
+  margin: 10px;
+  text-align: center;
+}
+
 .works-list {
   position: relative;
   margin: 0;
